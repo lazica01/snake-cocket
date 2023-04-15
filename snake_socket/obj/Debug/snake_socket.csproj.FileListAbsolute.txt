@@ -1,0 +1,20 @@
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\bin\Debug\snake_socket.exe.config
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\bin\Debug\snake_socket.exe
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\bin\Debug\snake_socket.pdb
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.csprojAssemblyReference.cache
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.Properties.Resources.resources
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.csproj.GenerateResource.cache
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.csproj.CoreCompileInputs.cache
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.exe
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.pdb
+C:\Users\enum\source\csprojects\snake_socket\snake_socket\obj\Debug\snake_socket.Form1.resources
+D:\Visual studio Projects\snake_socket\snake_socket\bin\Debug\snake_socket.exe.config
+D:\Visual studio Projects\snake_socket\snake_socket\bin\Debug\snake_socket.exe
+D:\Visual studio Projects\snake_socket\snake_socket\bin\Debug\snake_socket.pdb
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.csprojAssemblyReference.cache
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.Form1.resources
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.Properties.Resources.resources
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.csproj.GenerateResource.cache
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.csproj.CoreCompileInputs.cache
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.exe
+D:\Visual studio Projects\snake_socket\snake_socket\obj\Debug\snake_socket.pdb
